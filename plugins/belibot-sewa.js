@@ -2,10 +2,7 @@ let fs = require('fs')
 let handler = async (m, { conn }) => {
 let anu = `
 ╭─「 Donasi 」
-│• [ 081395861695 ] - GOPAY
- | • [ 081395861695 ] - TSEL
- | • [ 081395861695 ] - OVO
- | • [ QRISS ] - pm me
+│• [ 082288082120 ] - DANA
 ╰────
 *_note_*: jangan pencet button tar fc.
 `
